@@ -1,6 +1,8 @@
 *~
 .idea/*
 *.xml
+*.MF
+*.properties
 # Created by https://www.gitignore.io/api/eclipse,intellij,java,netbeans
 
 ### Eclipse ###
